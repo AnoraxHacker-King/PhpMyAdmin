@@ -2,36 +2,36 @@
 
 - kali linux : 
 
-    apt-get update
+        apt-get update
     
-    apt-get upgrade
+        apt-get upgrade
     
-    git clone https://github.com/AnoraxHacker-King/PhpMyAdmin.git
+        git clone https://github.com/AnoraxHacker-King/PhpMyAdmin.git
     
-    cd PhpMyAdmin
+        cd PhpMyAdmin
     
-    perl admin.perl
+        perl admin.perl
 
  - termux : 
    
-    apt update
+        apt update
    
-    apt upgrade
+        apt upgrade
    
-    pkg install perl
+        pkg install perl
    
-    git clone https://github.com/AnoraxHacker-King/PhpMyAdmin.git
+        git clone https://github.com/AnoraxHacker-King/PhpMyAdmin.git
    
-    cd PhpMyAdmin
+        cd PhpMyAdmin
    
-    perl admin.perl
+        perl admin.perl
     
  - windows : 
     
-    download https://github.com/AnoraxHacker-King/PhpMyAdmin/archive/main.zip
+        download https://github.com/AnoraxHacker-King/PhpMyAdmin/archive/main.zip
     
-    home + r
+        home + r
     
-    cd path/PhpMyAdmin/
+        cd path/PhpMyAdmin/
     
     perl admin.perl
