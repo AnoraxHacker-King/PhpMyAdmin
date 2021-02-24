@@ -34,4 +34,4 @@
     
         cd path/PhpMyAdmin/
     
-    perl admin.perl
+        perl admin.perl
