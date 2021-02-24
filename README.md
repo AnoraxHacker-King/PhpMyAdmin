@@ -1,6 +1,6 @@
 # PhpMyAdmin Finder create by Anorax Hacker
 
-kali linux : 
+- kali linux : 
 
     apt-get update
     
@@ -12,7 +12,7 @@ kali linux :
     
     perl admin.perl
 
-termux : 
+ - termux : 
    
     apt update
    
@@ -26,7 +26,7 @@ termux :
    
     perl admin.perl
     
-windows : 
+ - windows : 
     
     download https://github.com/AnoraxHacker-King/PhpMyAdmin/archive/main.zip
     
